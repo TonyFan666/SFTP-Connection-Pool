@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+BUILD
+develop-eggs/
+eggs/
+dist/
+downloads/
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# virtualenv
+.env
+.env.bak
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# Java specific ignores
+*.class
+*.jar
+*.war
+*.ear
+*.class
+hs_err_pid*
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+# Installers
+*.exe
+*.dll
+# OS generated files
+.DS_Store
+Thumbs.db
